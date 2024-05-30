@@ -63,10 +63,25 @@ This project aims to develop a web-based inventory management system that addres
 5. **Run the application**: `npm start` (or appropriate command)
 6. **Access the application**: Open your web browser and navigate to `http://localhost:3000`
 
-## Admin
+## User Administration 
+
+### User Authentication:
+
+Implement a secure login system requiring a username and password.
+Provide password recovery options via email.
+Use encryption to store passwords securely.
+
+### User Authorization:
+
+Define user roles such as Admin and Customer, each with specific permissions.
+Admin users should have full access to all system functionalities, including product management, supplier management, user management, order processing, and reporting.
+Customer users should have access to functionalities such as viewing products, placing orders, viewing order history, and managing their accounts.
+Ensure that only authorized users can perform actions based on their role.
+
+### Admin
 The admin users are responsible for overseeing the entire inventory management system. They need robust functionalities to manage products, suppliers, customers, and orders. They also require comprehensive reporting tools to analyze inventory levels, sales trends, and supplier performance. Additionally, admins need capabilities to manage user roles and permissions within the system.
 
-## Customer
+### Customer
 Customers need a user-friendly interface to browse products, place orders, and track their order status. They should also be able to view their order history, manage their account details, and provide feedback on their purchases. Features like order cancellation, loyalty programs, and online invoice payments also benefit customers.
 
 ## Contributing
