@@ -56,7 +56,7 @@ This project aims to develop a web-based inventory management system that addres
 - **Scalable architecture** to handle growing data and user base.
 
 ## Installation and Setup
-1. **Clone the repository**: `git clone https://github.com/yourusername/inventory-management-system.git`
+1. **Clone the repository**: `git clone https://github.com/abraham-tech/inventory-management-system`
 2. **Navigate to the project directory**: `cd inventory-management-system`
 3. **Install dependencies**: `npm install` (or appropriate package manager)
 4. **Configure the database**: Set up your database and update the configuration file with the database credentials.
