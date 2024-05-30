@@ -2,7 +2,7 @@
 
 ## Overview
 
-ABC Inc. is a small business that needs an efficient solution to manage their inventory. Their current system, a mix of spreadsheets and manual tracking, is time-consuming, error-prone, and lacks features to optimize stock levels and ordering. This inefficiency results in stockouts, slow order delivery, excess inventory, and lost sales.
+ABC Inc. is a small business that needs an efficient solution to manage inventory. Their current system, a mix of spreadsheets and manual tracking, is time-consuming, error-prone, and lacks features to optimize stock levels and ordering. This inefficiency results in stockouts, slow order delivery, excess inventory, and lost sales.
 
 This project aims to develop a web-based inventory management system that addresses these challenges by providing comprehensive functionalities for tracking products, managing suppliers, processing orders, maintaining stock levels, handling customer management, generating reports and analytics, and managing billing and invoicing.
 
@@ -63,6 +63,12 @@ This project aims to develop a web-based inventory management system that addres
 5. **Run the application**: `npm start` (or appropriate command)
 6. **Access the application**: Open your web browser and navigate to `http://localhost:3000`
 
+## Admin
+The admin users are responsible for overseeing the entire inventory management system. They need robust functionalities to manage products, suppliers, customers, and orders. They also require comprehensive reporting tools to analyze inventory levels, sales trends, and supplier performance. Additionally, admins need capabilities to manage user roles and permissions within the system.
+
+## Customer
+Customers need a user-friendly interface to browse products, place orders, and track their order status. They should also be able to view their order history, manage their account details, and provide feedback on their purchases. Features like order cancellation, loyalty programs, and online invoice payments also benefit customers.
+
 ## Contributing
 We welcome contributions from the community. To contribute, please follow these steps:
 1. **Fork the repository**.
@@ -79,4 +85,4 @@ For any inquiries or support, please contact us at support@abcinc.com.
 
 ---
 
-By providing a comprehensive and user-friendly inventory management system, ABC Inc. aims to streamline their operations, reduce errors, and improve overall business efficiency.
+ABC Inc. aims to streamline its operations, reduce errors, and improve overall business efficiency by providing a comprehensive and user-friendly inventory management system.
