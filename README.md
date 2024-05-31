@@ -93,12 +93,12 @@ We welcome contributions from the community. To contribute, please follow these 
 5. **Open a pull request**.
 
 ## Class diagram
-![Alt text](./screenshots/classDiagram)
-![Alt text](./screenshots/userClassDiagram)
+![Alt text](https://github.com/abraham-tech/inventory-management-system/blob/main/screenshots/classDiagram.png)
+![Alt text]( https://github.com/abraham-tech/inventory-management-system/blob/main/screenshots/userClassDiagram.png)
 
 
 ## Archtecture diagram
-![Archtecture diagram](screenshots/architectureDiagram)
+![Archtecture diagram](https://github.com/abraham-tech/inventory-management-system/blob/main/screenshots/architectureDiagram.png)
 
 
 
