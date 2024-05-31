@@ -92,6 +92,17 @@ We welcome contributions from the community. To contribute, please follow these 
 4. **Push to the branch**: `git push origin feature/your-feature-name`
 5. **Open a pull request**.
 
+## Class diagram
+![Alt text](screenshots/classDiagram)
+![Alt text](screenshots/userClassDiagram)
+
+
+## Archtecture diagram
+![Archtecture diagram](screenshots/architectureDiagram)
+
+
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
