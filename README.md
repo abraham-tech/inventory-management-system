@@ -93,8 +93,8 @@ We welcome contributions from the community. To contribute, please follow these 
 5. **Open a pull request**.
 
 ## Class diagram
-![Alt text](screenshots/classDiagram)
-![Alt text](screenshots/userClassDiagram)
+![Alt text](./screenshots/classDiagram)
+![Alt text](./screenshots/userClassDiagram)
 
 
 ## Archtecture diagram
