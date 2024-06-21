@@ -97,11 +97,12 @@ We welcome contributions from the community. To contribute, please follow these 
 ![Alt text]( https://github.com/abraham-tech/inventory-management-system/blob/main/screenshots/userClassDiagram.png)
 
 
-## Archtecture diagram
-![Archtecture diagram](https://github.com/abraham-tech/inventory-management-system/blob/main/screenshots/architectureDiagram.png)
+## Architecture diagram
+![Architecture diagram](https://github.com/abraham-tech/inventory-management-system/blob/main/screenshots/architectureDiagram.png)
 
 
-
+## Deployment diagram
+![Architecture diagram](https://github.com/abraham-tech/inventory-management-system/blob/main/screenshots/deploymentDiagram.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
