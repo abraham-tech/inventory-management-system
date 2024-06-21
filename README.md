@@ -96,6 +96,10 @@ We welcome contributions from the community. To contribute, please follow these 
 ![Alt text](https://github.com/abraham-tech/inventory-management-system/blob/main/screenshots/classDiagram.png)
 ![Alt text]( https://github.com/abraham-tech/inventory-management-system/blob/main/screenshots/userClassDiagram.png)
 
+## ER diagrams
+![Alt text](https://github.com/abraham-tech/inventory-management-system/blob/main/screenshots/ER_Diagram.png)
+![Alt text]( https://github.com/abraham-tech/inventory-management-system/blob/main/screenshots/ER2.png)
+
 
 ## Architecture diagram
 ![Architecture diagram](https://github.com/abraham-tech/inventory-management-system/blob/main/screenshots/architectureDiagram.png)
